@@ -56,7 +56,7 @@ int main()
             }
             Delay(100);
             
-              if(LEDNum = 0)
+              if(LEDNum == 0)
             {
                 LEDNum = 7;
             }
