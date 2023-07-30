@@ -1,0 +1,1 @@
+"MatrixKey\MatrixKey.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\Delay;.\LCD1602;.\MatrixKey) DEBUG OBJECTEXTEND PRINT(.\Listings\MatrixKey.lst) OBJECT(.\Objects\MatrixKey.obj)
