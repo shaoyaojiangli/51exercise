@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\Delay.obj",
+".\Objects\LCD1602.obj",
+".\Objects\time0.obj" 
+TO ".\Objects\clock" 
+PRINT(".\Listings\clock.m51") RAMSIZE(256) 
