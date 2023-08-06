@@ -1,0 +1,1 @@
+"MatrixLED\MatrixLED.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\Delay;.\MatrixLED) DEBUG OBJECTEXTEND PRINT(.\Listings\MatrixLED.lst) OBJECT(.\Objects\MatrixLED.obj)
